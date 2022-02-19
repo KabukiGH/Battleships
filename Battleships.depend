@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1639334541 source:e:\programs\c\projects\battleships\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<time.h>
+	<setjmp.h>
+	<unistd.h>
+	<windows.h>
+	<ctype.h>
+	"grid.h"
+
+1639334840 e:\programs\c\projects\battleships\grid.h
+
+1639334541 source:e:\programs\c\projects\battleships\grid.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<time.h>
+	<setjmp.h>
+	<unistd.h>
+	<windows.h>
+	<ctype.h>
+	"grid.h"
+
+1639335108 source:e:\programs\c\projects\battleships\ships.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<time.h>
+	<setjmp.h>
+	<unistd.h>
+	<ctype.h>
+	"grid.h"
+
+1639259521 source:e:\programs\c\projects\battleships\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<time.h>
+	<setjmp.h>
+	<unistd.h>
+	<windows.h>
+	<ctype.h>
+	"grid.h"
+
