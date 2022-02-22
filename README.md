@@ -1,7 +1,7 @@
 # Battleships
 Batteships console game
 
-Battleships is a strategy type guessing game for two players or play against computer. It is played on ruled grids  on which each player's fleet of warships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
+Projected created in CodeBlock environment. Battleships is a strategy type guessing game for two players or play against computer. It is played on ruled grids  on which each player's fleet of warships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 
 Main goals:
 * allow to select opponent: singleplayer (player vs AI) or multiplayer (player vs player)
